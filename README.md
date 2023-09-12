@@ -3,6 +3,7 @@
 👀 Focado nos Estudos<br/>
 🌱 Atualmente Estudando Linguagens como Php e C#<br/>
 📫 E-mail de contato - <A href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFfhdhWzgFQjjGJjGfpwhwzGfnGbBpdzVvzzFkVHXLkBGHPrvFnzLRTVZmqSwSGWhqKg">joaoarantes776@gmail.com</A>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c61aff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Anael+Ferreira;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
