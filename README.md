@@ -7,8 +7,10 @@
 </div>
 
 <div align="left">
+  <br/>
   - 👀 Focado nos Estudos<br/>
   - 🌱 Atualmente Estudando Linguagens como Php e C#
+    <br/>
 </div>
 <br/>
 
