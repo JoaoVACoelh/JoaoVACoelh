@@ -3,8 +3,8 @@
   👋 Olá, me chamo João Vitor!
   </h1>
 <h5 align="center">
-👀 Focado nos Estudos<br>
-🌱 Atualmente Estudando Linguagens como Php e C#<br>
+👀 Focado nos Estudos<br/>
+🌱 Atualmente Estudando Linguagens como Php e C#<br/>
 📫 E-mail de contato : <A href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFfhdhWzgFQjjGJjGfpwhwzGfnGbBpdzVvzzFkVHXLkBGHPrvFnzLRTVZmqSwSGWhqKg">joaoarantes776@gmail.com</A>
 </h5>
 </div>
