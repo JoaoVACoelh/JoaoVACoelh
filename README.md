@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<div align="left">
+<div align="center">
   <br/>
   - 👨🏻‍🎓 Formando<br/>
   - 👀 Focado em Aprender<br/>
