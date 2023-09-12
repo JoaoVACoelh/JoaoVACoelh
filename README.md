@@ -1,11 +1,10 @@
 <div align="center">
   <h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=44769c&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Vitor;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=2EA9F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Jo%C3%A3o+Vitor;I'm+18+years+old;+I'm+from+Brazil+)](https://git.io/typing-svg)
   </h1>
 👀 Focado nos Estudos<br/>
 🌱 Atualmente Estudando Linguagens como Php e C#<br/>
 📫 E-mail de contato - <A href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFfhdhWzgFQjjGJjGfpwhwzGfnGbBpdzVvzzFkVHXLkBGHPrvFnzLRTVZmqSwSGWhqKg">joaoarantes776@gmail.com</A>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c61aff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Anael+Ferreira;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
