@@ -10,9 +10,8 @@
   <br/>
   - 👨🏻‍🎓 Formando<br/>
   - 👀 Focado em Aprender<br/>
-  - 🌱 Atualmente Estudando Linguagens como Php e C#
+  - 🌱 Atualmente Estudando Linguagens como Php e C#<br/>
   - 💻 Meu Portfólio<br/>
-    <br/>
 </div>
 <br/>
 
