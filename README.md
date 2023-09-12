@@ -9,7 +9,7 @@
   🌱 Atualmente Estudando Linguagens como Php e C#<br/>
   📫 E-mail de contato - <A href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFfhdhWzgFQjjGJjGfpwhwzGfnGbBpdzVvzzFkVHXLkBGHPrvFnzLRTVZmqSwSGWhqKg">joaoarantes776@gmail.com</A><br/>
 </div>
-br/>
+<br/>
 <a href="https://github.com/JoaoVACoelh">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVACoelh&layout=compact&langs_count=7&theme=tokyonight"/></a>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVACoelh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
