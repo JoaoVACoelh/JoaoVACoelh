@@ -8,10 +8,13 @@
 
 <div align="center">
   <br/>
-  - 👨🏻‍🎓 Formando<br/>
-  - 👀 Focado em Aprender<br/>
-  - 🌱 Atualmente Estudando Linguagens como Php e C#<br/>
-  - 💻 Meu Portfólio<br/>
+  👨🏻‍🎓 Formando 👨🏻‍🎓<br/>
+  <br/>
+  👀 Focado em Aprender 👀<br/>
+  <br/>
+  🌱 Atualmente Estudando Linguagens como Php e C# 🌱<br/>
+  <br/>
+  💻 Meu Portfólio 💻<br/>
 </div>
 <br/>
 
