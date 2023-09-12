@@ -7,9 +7,6 @@
 </div>
 
 <div align="center">
-  <br/>
-  👨🏻‍🎓 Formando 👨🏻‍🎓<br/>
-  <br/>
   👀 Focado em Aprender 👀<br/>
   <br/>
   🌱 Atualmente Estudando Linguagens como Php e C# 🌱<br/>
