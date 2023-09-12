@@ -2,9 +2,11 @@
   <h1 align="center">
   👋 Olá, me chamo João Vitor!
   </h1>
-- 👀 Focado nos Estudos 
-- 🌱 Atualmente Estudando Linguagens como Php e C#
-- 📫 E-mail de contato : <A href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFfhdhWzgFQjjGJjGfpwhwzGfnGbBpdzVvzzFkVHXLkBGHPrvFnzLRTVZmqSwSGWhqKg">joaoarantes776@gmail.com</A>
+<h5 align="center">
+👀 Focado nos Estudos 
+🌱 Atualmente Estudando Linguagens como Php e C#
+📫 E-mail de contato : <A href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFfhdhWzgFQjjGJjGfpwhwzGfnGbBpdzVvzzFkVHXLkBGHPrvFnzLRTVZmqSwSGWhqKg">joaoarantes776@gmail.com</A>
+</h5>
 </div>
 
 <div>
