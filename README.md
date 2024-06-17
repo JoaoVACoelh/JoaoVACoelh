@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2aA9F7&height=120&section=header"/>
 <div align="center">
   <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=2EA9F7&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+my+name+is+Jo%C3%A3o+Vitor;I'm+18+years+old;+I'm+from+Brazil+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=2EA9F7&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+meu+nome+é+Jo%C3%A3o+Vitor;Tenho+19+anos;+Sou+de+BH+" alt="Typing SVG" /></a>
   </h1>
 </div>
 
