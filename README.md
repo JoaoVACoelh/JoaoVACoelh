@@ -9,9 +9,8 @@
 <div align="center">
   👀 Focado em Aprender 👀<br/>
   <br/>
-  🌱 Atualmente Estudando Linguagens como Php e C# 🌱<br/>
+  🌱 Atualmente Estudando Java🌱<br/>
   <br/>
-  💻 Meu Portfólio 💻<br/>
 </div>
 <br/>
 
@@ -22,7 +21,7 @@
   <img align="center" alt="C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />        
+  <img align="center" alt="" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg>        
 </div>
 
 <div align="center">
