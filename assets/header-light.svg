@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
+<title id="t">João Vitor Coelho, desenvolvedor full stack</title>
+<desc id="d">Corte de camadas da stack: interface, API, dados e infra e testes, com as tecnologias de cada uma.</desc>
+<style>
+  text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .pulse { animation: drill 7s cubic-bezier(.45,0,.55,1) infinite; }
+  @keyframes drill { 0%, 8% { transform: translateY(0); } 46%, 54% { transform: translateY(248px); } 92%, 100% { transform: translateY(0); } }
+  @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+</style>
+<defs>
+  <clipPath id="column"><rect x="0" y="150" width="1200" height="310" rx="18"/></clipPath>
+  <radialGradient id="glow"><stop offset="0" stop-color="#E6CB8E" stop-opacity=".9"/><stop offset="1" stop-color="#E6CB8E" stop-opacity="0"/></radialGradient>
+</defs>
+<text x="46" y="98" font-size="60" font-weight="700" letter-spacing="-1.2" fill="#1D2733">João Vitor Coelho</text>
+<text x="49" y="144" font-size="25" fill="#566273">Desenvolvedor full stack em Belo Horizonte, MG</text>
+<g clip-path="url(#column)">
+  <path d="M0,199 C50,199 50,201 100,201 C150,201 150,198 200,198 C250,198 250,198 300,198 C350,198 350,191 400,191 C450,191 450,190 500,190 C550,190 550,196 600,196 C650,196 650,196 700,196 C750,196 750,201 800,201 C850,201 850,201 900,201 C950,201 950,194 1000,194 C1050,194 1050,194 1100,194 C1150,194 1150,191 1200,191 L1200,460 L0,460 Z" fill="#E3E9EE"/><path d="M0,261 C50,261 50,258 100,258 C150,258 150,258 200,258 C250,258 250,254 300,254 C350,254 350,255 400,255 C450,255 450,260 500,260 C550,260 550,260 600,260 C650,260 650,262 700,262 C750,262 750,260 800,260 C850,260 850,255 900,255 C950,255 950,256 1000,256 C1050,256 1050,255 1100,255 C1150,255 1150,258 1200,258 L1200,460 L0,460 Z" fill="#E6CB8E"/><path d="M0,319 C50,319 50,319 100,319 C150,319 150,315 200,315 C250,315 250,317 300,317 C350,317 350,323 400,323 C450,323 450,322 500,322 C550,322 550,324 600,324 C650,324 650,321 700,321 C750,321 750,315 800,315 C850,315 850,317 900,317 C950,317 950,318 1000,318 C1050,318 1050,320 1100,320 C1150,320 1150,326 1200,326 L1200,460 L0,460 Z" fill="#8E9FB6"/><path d="M0,380 C50,380 50,379 100,379 C150,379 150,382 200,382 C250,382 250,385 300,385 C350,385 350,383 400,383 C450,383 450,383 500,383 C550,383 550,381 600,381 C650,381 650,378 700,378 C750,378 750,381 800,381 C850,381 850,382 900,382 C950,382 950,384 1000,384 C1050,384 1050,386 1100,386 C1150,386 1150,382 1200,382 L1200,460 L0,460 Z" fill="#3A4557"/>
+  <text x="48" y="234" font-size="21" font-weight="600" fill="#1D2733">Interface</text><text x="236" y="234" font-size="21" fill="#1D2733">Next.js, React, React Native, TypeScript, Tailwind CSS</text><text x="48" y="296" font-size="21" font-weight="600" fill="#3A2B0E">API</text><text x="236" y="296" font-size="21" fill="#3A2B0E">Laravel, PHP, FastAPI, .NET</text><text x="48" y="358" font-size="21" font-weight="600" fill="#132033">Dados</text><text x="236" y="358" font-size="21" fill="#132033">PostgreSQL, MySQL, Redis, SQLite</text><text x="48" y="420" font-size="21" font-weight="600" fill="#E8EDF3">Infra e testes</text><text x="236" y="420" font-size="21" fill="#E8EDF3">Docker, CI/CD no Azure DevOps, Pest, Vitest, Playwright</text>
+  <line x1="1104" y1="180" x2="1104" y2="438" stroke="#1D2733" stroke-opacity=".45" stroke-width="2" stroke-dasharray="3 7"/>
+  <line x1="1097" y1="258" x2="1111" y2="258" stroke="#6B5321" stroke-width="2"/><line x1="1097" y1="320" x2="1111" y2="320" stroke="#26364D" stroke-width="2"/><line x1="1097" y1="382" x2="1111" y2="382" stroke="#B9C4D1" stroke-width="2"/>
+</g>
+<path d="M1088,194 L1104,156 L1120,194 M1095,178 L1113,178 M1098,156 L1110,156" fill="none" stroke="#1D2733" stroke-opacity=".65" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="pulse">
+  <circle cx="1104" cy="176" r="18" fill="url(#glow)"/>
+  <circle cx="1104" cy="176" r="6" fill="#FFFFFF" stroke="#1D2733" stroke-width="2"/>
+</g>
+</svg>
